@@ -1,2 +1,5 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
+I am an Information Systems and Technology major. I am also an aspiring cybersecurity professional with a strong interest in protecting information systems and the people who rely on them. I bring strong analytical thinking skills, reliable time management, and a growing understanding of cybersecurity principles gained through coursework that focused on security awareness and identifying potential risks. I value protecting both individuals and organizations and believe in acting with integrity by following established laws, policies, and ethical standards. What draws me to cybersecurity is its preventative focus on reducing risk before incidents occur. This professional statement is intended for cybersecurity recruiters and organizations seeking entry-level professionals, and my skills and values support organizational security goals by encouraging compliance, responsible data handling, and a strong security-minded culture.
+
+
